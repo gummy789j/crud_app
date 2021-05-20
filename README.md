@@ -1,4 +1,4 @@
-# Demonstrating the Member Management APP using Node.js, MongoDB
+# Demonstrating the Member Management APP using Express, MongoDB
 
 ## Purpose
 
